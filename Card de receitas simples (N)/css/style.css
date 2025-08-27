@@ -1,0 +1,20 @@
+/*1. ESTILOS GERAIS PARA A PAGINA */
+/* identicos ao projeto anterior,
+apenas para criar um  "palco" para o nosso card.*/
+
+body {
+    font-family: 'Georgia', serif; /* Uma fonte um pouco mais elegante para receitas */
+    background-color: #f5f5f5;
+    color: #333;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+/* 2. ESTILOS  DO CARD DE RECEITA */
+recipe-card {
+    width: 350px; /
+}
